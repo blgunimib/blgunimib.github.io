@@ -12,7 +12,7 @@ sleep 2s
 
 echo 'type oldstring:'
 echo 'e.g.: <br/ >'
-echo 'e.g.: 2008-2023'
+echo 'e.g.: 2024-2026'
 echo 'e.g.:  old -@# <\> (string*) !? /{with+} & | ["many".] //slash^ and $&'
 echo 'warning!!! In the input below, replace any '\'' in the original text, with '\''\'\'''\'' '
 echo 'warning!!! In the input below, replace any \ in the original text, with \\ '
@@ -20,7 +20,7 @@ read oldstring
 
 echo 'type newstring:'
 echo 'e.g.: <br/>'
-echo 'e.g.: 2008-2024'
+echo 'e.g.: 2024-2027'
 echo 'e.g.: new -#@ >/\< (strung*) !? /{wath+} & | ["miny".] //slosh^ and $P&'
 echo 'warning!!! In the input below, replace any '\'' in the original text, with '\''\'\'''\'' '
 echo 'warning!!! In the input below, replace any \ in the original text, with \\ '
